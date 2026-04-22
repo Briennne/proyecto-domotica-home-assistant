@@ -10,7 +10,7 @@ Proyecto de implementación de un sistema domótico completo basado en Home Assi
 * Ubuntu Server
 * Docker
 * Home Assistant
-* MQTT (Mosquitto)
+* Broker MQTT (Mosquitto)
 * Zigbee2MQTT
 * ESP32 (WiFi)
 * Dispositivos Zigbee (sensores, enchufes)
@@ -35,3 +35,7 @@ ESP32 conectados por WiFi.
 * Integración de dispositivos IoT
 * Comunicación mediante MQTT
 * Resolución de incidencias en sistemas reales
+
+
+## Capturas
+(Aquí añadiré imágenes del sistema funcionando)
