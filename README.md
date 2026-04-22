@@ -38,9 +38,11 @@ ESP32 conectados por WiFi.
 
 
 ## Capturas
-![Home Assistant]<img width="1482" height="922" alt="home assistant en docker" src="https://github.com/user-attachments/assets/48a77846-9d68-4836-80ea-99c232f6b387" />
+![Home Assistant en Docker]<img width="1482" height="922" alt="home assistant en docker" src="https://github.com/user-attachments/assets/48a77846-9d68-4836-80ea-99c232f6b387" />
 ![Sistema]<img width="1482" height="922" alt="estado de docker" src="https://github.com/user-attachments/assets/dd578abd-11f2-48b9-93f7-aaeb3ea7196e" />
 ![MQTT]<img width="1482" height="922" alt="Estado mosquitto" src="https://github.com/user-attachments/assets/d4d5a785-8e2b-4428-acd0-fe91e32b8946" />
+![Automatización]<img width="1482" height="922" alt="archivo yaml del esp escalera 2" src="https://github.com/user-attachments/assets/51eda9c1-add2-4e79-abf3-181da4252228" />
+![Home Assistant]<img width="1920" height="1020" alt="home assistant funcionando" src="https://github.com/user-attachments/assets/6103b47b-5fe7-4a6d-b905-b00fa70fd202" />
 
 
 ## Objetivo profesional
