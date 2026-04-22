@@ -1,4 +1,5 @@
 # Sistema Domótico IoT con Home Assistant
+Sistema domótico completo con integración de dispositivos IoT, automatización y control inteligente del hogar.
 
 ## Descripción
 
