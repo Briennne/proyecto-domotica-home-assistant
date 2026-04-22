@@ -38,4 +38,12 @@ ESP32 conectados por WiFi.
 
 
 ## Capturas
-(Aquí añadiré imágenes del sistema funcionando)
+![Home Assistant]<img width="1482" height="922" alt="home assistant en docker" src="https://github.com/user-attachments/assets/48a77846-9d68-4836-80ea-99c232f6b387" />
+![Sistema]<img width="1482" height="922" alt="estado de docker" src="https://github.com/user-attachments/assets/dd578abd-11f2-48b9-93f7-aaeb3ea7196e" />
+![MQTT]<img width="1482" height="922" alt="Estado mosquitto" src="https://github.com/user-attachments/assets/d4d5a785-8e2b-4428-acd0-fe91e32b8946" />
+
+
+## Objetivo profesional
+Proyecto desarrollado como parte de mi formación en Sistemas Microinformáticos y Redes, enfocado a especialización en domótica e IoT.
+
+
